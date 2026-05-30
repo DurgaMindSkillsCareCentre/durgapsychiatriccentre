@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://durgamindskillscarecentre.github.io/durgapsychiatriccentre/sitemap.xml
